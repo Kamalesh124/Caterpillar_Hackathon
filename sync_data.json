@@ -1,0 +1,769 @@
+{
+  "srt_assets": {
+    "data": [
+      {
+        "id": "exc-320-1",
+        "name": "Excavator CAT 320",
+        "category": "Excavator",
+        "site": "Construction Site A",
+        "status": "rented",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\u26cf\ufe0f",
+        "description": "20-ton hydraulic excavator with advanced digging capabilities. Features: 1.2 cubic yard bucket, 320\u00b0 swing radius, 25.5 ft digging depth. Perfect for foundation work and utility installation.",
+        "quantity": 3
+      },
+      {
+        "id": "exc-320-2",
+        "name": "Excavator CAT 320",
+        "category": "Excavator",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\u26cf\ufe0f",
+        "description": "20-ton hydraulic excavator with advanced digging capabilities. Features: 1.2 cubic yard bucket, 320\u00b0 swing radius, 25.5 ft digging depth. Perfect for foundation work and utility installation.",
+        "quantity": 3
+      },
+      {
+        "id": "exc-320-3",
+        "name": "Excavator CAT 320",
+        "category": "Excavator",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\u26cf\ufe0f",
+        "description": "20-ton hydraulic excavator with advanced digging capabilities. Features: 1.2 cubic yard bucket, 320\u00b0 swing radius, 25.5 ft digging depth. Perfect for foundation work and utility installation.",
+        "quantity": 3
+      },
+      {
+        "id": "exc-330-1",
+        "name": "Excavator CAT 330",
+        "category": "Excavator",
+        "site": "Yard B",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\u26cf\ufe0f",
+        "description": "30-ton excavator with intelligent hydraulic system and GPS guidance. Features: 1.6 cubic yard bucket, 360\u00b0 swing, 30 ft digging depth. Ideal for large construction projects and mining operations.",
+        "quantity": 2
+      },
+      {
+        "id": "exc-330-2",
+        "name": "Excavator CAT 330",
+        "category": "Excavator",
+        "site": "Yard B",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\u26cf\ufe0f",
+        "description": "30-ton excavator with intelligent hydraulic system and GPS guidance. Features: 1.6 cubic yard bucket, 360\u00b0 swing, 30 ft digging depth. Ideal for large construction projects and mining operations.",
+        "quantity": 2
+      },
+      {
+        "id": "exc-349-1",
+        "name": "Excavator CAT 349",
+        "category": "Excavator",
+        "site": "Yard C",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\u26cf\ufe0f",
+        "description": "50-ton heavy-duty excavator with reinforced undercarriage. Features: 2.5 cubic yard bucket, 40 ft digging depth, 400 hp engine. Designed for extreme mining and large-scale earthmoving.",
+        "quantity": 1
+      },
+      {
+        "id": "ldr-950-1",
+        "name": "Wheel Loader CAT 950",
+        "category": "Loader",
+        "site": "Mining Site B",
+        "status": "rented",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9c",
+        "description": "3.5 cubic yard wheel loader with high-torque engine. Features: 4WD, 200 hp, 8.5 ft lift height. Perfect for material handling, loading trucks, and stockpile management.",
+        "quantity": 4
+      },
+      {
+        "id": "ldr-950-2",
+        "name": "Wheel Loader CAT 950",
+        "category": "Loader",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9c",
+        "description": "3.5 cubic yard wheel loader with high-torque engine. Features: 4WD, 200 hp, 8.5 ft lift height. Perfect for material handling, loading trucks, and stockpile management.",
+        "quantity": 4
+      },
+      {
+        "id": "ldr-950-3",
+        "name": "Wheel Loader CAT 950",
+        "category": "Loader",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9c",
+        "description": "3.5 cubic yard wheel loader with high-torque engine. Features: 4WD, 200 hp, 8.5 ft lift height. Perfect for material handling, loading trucks, and stockpile management.",
+        "quantity": 4
+      },
+      {
+        "id": "ldr-950-4",
+        "name": "Wheel Loader CAT 950",
+        "category": "Loader",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9c",
+        "description": "3.5 cubic yard wheel loader with high-torque engine. Features: 4WD, 200 hp, 8.5 ft lift height. Perfect for material handling, loading trucks, and stockpile management.",
+        "quantity": 4
+      },
+      {
+        "id": "ldr-966-1",
+        "name": "Wheel Loader CAT 966",
+        "category": "Loader",
+        "site": "Yard B",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9c",
+        "description": "6 cubic yard wheel loader with advanced load-sensing hydraulics. Features: 300 hp, 12 ft lift height, 4WD. Excellent for heavy material handling and large-scale operations.",
+        "quantity": 2
+      },
+      {
+        "id": "ldr-966-2",
+        "name": "Wheel Loader CAT 966",
+        "category": "Loader",
+        "site": "Yard B",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9c",
+        "description": "6 cubic yard wheel loader with advanced load-sensing hydraulics. Features: 300 hp, 12 ft lift height, 4WD. Excellent for heavy material handling and large-scale operations.",
+        "quantity": 2
+      },
+      {
+        "id": "ldr-980-1",
+        "name": "Wheel Loader CAT 980",
+        "category": "Loader",
+        "site": "Yard C",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9c",
+        "description": "8 cubic yard wheel loader with high-capacity bucket. Features: 400 hp, 15 ft lift height, reinforced frame. Designed for maximum productivity in large-scale material handling.",
+        "quantity": 1
+      },
+      {
+        "id": "dmp-730-1",
+        "name": "Dump Truck CAT 730",
+        "category": "Truck",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9b",
+        "description": "30-ton articulated dump truck with all-wheel drive. Features: 350 hp, 20 cubic yard capacity, 40 mph max speed. Perfect for off-road hauling and construction sites.",
+        "quantity": 3
+      },
+      {
+        "id": "dmp-730-2",
+        "name": "Dump Truck CAT 730",
+        "category": "Truck",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9b",
+        "description": "30-ton articulated dump truck with all-wheel drive. Features: 350 hp, 20 cubic yard capacity, 40 mph max speed. Perfect for off-road hauling and construction sites.",
+        "quantity": 3
+      },
+      {
+        "id": "dmp-730-3",
+        "name": "Dump Truck CAT 730",
+        "category": "Truck",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9b",
+        "description": "30-ton articulated dump truck with all-wheel drive. Features: 350 hp, 20 cubic yard capacity, 40 mph max speed. Perfect for off-road hauling and construction sites.",
+        "quantity": 3
+      },
+      {
+        "id": "dmp-740-1",
+        "name": "Dump Truck CAT 740",
+        "category": "Truck",
+        "site": "Yard B",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9b",
+        "description": "40-ton articulated dump truck with advanced suspension. Features: 450 hp, 25 cubic yard capacity, 45 mph max speed. Ideal for heavy-duty hauling operations.",
+        "quantity": 2
+      },
+      {
+        "id": "dmp-740-2",
+        "name": "Dump Truck CAT 740",
+        "category": "Truck",
+        "site": "Yard B",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9b",
+        "description": "40-ton articulated dump truck with advanced suspension. Features: 450 hp, 25 cubic yard capacity, 45 mph max speed. Ideal for heavy-duty hauling operations.",
+        "quantity": 2
+      },
+      {
+        "id": "dmp-750-1",
+        "name": "Dump Truck CAT 750",
+        "category": "Truck",
+        "site": "Yard C",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9b",
+        "description": "50-ton articulated dump truck with reinforced chassis. Features: 550 hp, 30 cubic yard capacity, 50 mph max speed. Built for extreme hauling conditions.",
+        "quantity": 1
+      },
+      {
+        "id": "blt-d6-1",
+        "name": "Bulldozer CAT D6",
+        "category": "Bulldozer",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9c",
+        "description": "Medium-sized bulldozer with 12-foot blade. Features: 200 hp, 6-way blade control, GPS guidance. Perfect for grading, leveling, and earthmoving operations.",
+        "quantity": 3
+      },
+      {
+        "id": "blt-d6-2",
+        "name": "Bulldozer CAT D6",
+        "category": "Bulldozer",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9c",
+        "description": "Medium-sized bulldozer with 12-foot blade. Features: 200 hp, 6-way blade control, GPS guidance. Perfect for grading, leveling, and earthmoving operations.",
+        "quantity": 3
+      },
+      {
+        "id": "blt-d6-3",
+        "name": "Bulldozer CAT D6",
+        "category": "Bulldozer",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9c",
+        "description": "Medium-sized bulldozer with 12-foot blade. Features: 200 hp, 6-way blade control, GPS guidance. Perfect for grading, leveling, and earthmoving operations.",
+        "quantity": 3
+      },
+      {
+        "id": "blt-d8-1",
+        "name": "Bulldozer CAT D8",
+        "category": "Bulldozer",
+        "site": "Yard B",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9c",
+        "description": "Large bulldozer with 16-foot blade and high horsepower. Features: 350 hp, 8-way blade control, ripper attachment. Designed for heavy construction and mining work.",
+        "quantity": 2
+      },
+      {
+        "id": "blt-d8-2",
+        "name": "Bulldozer CAT D8",
+        "category": "Bulldozer",
+        "site": "Yard B",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9c",
+        "description": "Large bulldozer with 16-foot blade and high horsepower. Features: 350 hp, 8-way blade control, ripper attachment. Designed for heavy construction and mining work.",
+        "quantity": 2
+      },
+      {
+        "id": "blt-d9-1",
+        "name": "Bulldozer CAT D9",
+        "category": "Bulldozer",
+        "site": "Yard C",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9c",
+        "description": "Extra-large bulldozer with 18-foot blade. Features: 500 hp, 10-way blade control, extreme duty undercarriage. Built for the most demanding earthmoving projects.",
+        "quantity": 1
+      },
+      {
+        "id": "crn-120-1",
+        "name": "Crane CAT 120",
+        "category": "Crane",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83c\udfd7\ufe0f",
+        "description": "120-ton mobile crane with telescopic boom. Features: 150 ft max reach, 360\u00b0 rotation, outrigger stabilization. Perfect for construction and industrial lifting operations.",
+        "quantity": 2
+      },
+      {
+        "id": "crn-120-2",
+        "name": "Crane CAT 120",
+        "category": "Crane",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83c\udfd7\ufe0f",
+        "description": "120-ton mobile crane with telescopic boom. Features: 150 ft max reach, 360\u00b0 rotation, outrigger stabilization. Perfect for construction and industrial lifting operations.",
+        "quantity": 2
+      },
+      {
+        "id": "crn-200-1",
+        "name": "Crane CAT 200",
+        "category": "Crane",
+        "site": "Yard B",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83c\udfd7\ufe0f",
+        "description": "200-ton mobile crane with extended reach capabilities. Features: 200 ft max reach, computerized load monitoring, 400\u00b0 rotation. Ideal for large-scale construction projects.",
+        "quantity": 1
+      },
+      {
+        "id": "gen-150-1",
+        "name": "Generator CAT 150kVA",
+        "category": "Generator",
+        "site": "Event Center",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\u26a1",
+        "description": "150kVA diesel generator with automatic transfer switch. Features: 120kW output, 400V/3-phase, fuel tank monitoring. Perfect for backup power and remote site operations.",
+        "quantity": 4
+      },
+      {
+        "id": "gen-150-2",
+        "name": "Generator CAT 150kVA",
+        "category": "Generator",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\u26a1",
+        "description": "150kVA diesel generator with automatic transfer switch. Features: 120kW output, 400V/3-phase, fuel tank monitoring. Perfect for backup power and remote site operations.",
+        "quantity": 4
+      },
+      {
+        "id": "gen-150-3",
+        "name": "Generator CAT 150kVA",
+        "category": "Generator",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\u26a1",
+        "description": "150kVA diesel generator with automatic transfer switch. Features: 120kW output, 400V/3-phase, fuel tank monitoring. Perfect for backup power and remote site operations.",
+        "quantity": 4
+      },
+      {
+        "id": "gen-150-4",
+        "name": "Generator CAT 150kVA",
+        "category": "Generator",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\u26a1",
+        "description": "150kVA diesel generator with automatic transfer switch. Features: 120kW output, 400V/3-phase, fuel tank monitoring. Perfect for backup power and remote site operations.",
+        "quantity": 4
+      },
+      {
+        "id": "gen-300-1",
+        "name": "Generator CAT 300kVA",
+        "category": "Generator",
+        "site": "Yard B",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\u26a1",
+        "description": "300kVA industrial generator with advanced monitoring. Features: 240kW output, 480V/3-phase, remote monitoring capabilities. Designed for large construction sites and industrial applications.",
+        "quantity": 2
+      },
+      {
+        "id": "gen-300-2",
+        "name": "Generator CAT 300kVA",
+        "category": "Generator",
+        "site": "Yard B",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\u26a1",
+        "description": "300kVA industrial generator with advanced monitoring. Features: 240kW output, 480V/3-phase, remote monitoring capabilities. Designed for large construction sites and industrial applications.",
+        "quantity": 2
+      },
+      {
+        "id": "gen-500-1",
+        "name": "Generator CAT 500kVA",
+        "category": "Generator",
+        "site": "Yard C",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\u26a1",
+        "description": "500kVA heavy-duty generator with industrial controls. Features: 400kW output, 600V/3-phase, dual fuel capability. Built for mining and large industrial operations.",
+        "quantity": 1
+      },
+      {
+        "id": "com-140-1",
+        "name": "Compactor CAT 140",
+        "category": "Compactor",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\udee3\ufe0f",
+        "description": "14-ton vibratory soil compactor with intelligent compaction control. Features: 4,000 VPM, 2.5 ft drum width, GPS tracking. Perfect for road construction and soil compaction.",
+        "quantity": 3
+      },
+      {
+        "id": "com-140-2",
+        "name": "Compactor CAT 140",
+        "category": "Compactor",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\udee3\ufe0f",
+        "description": "14-ton vibratory soil compactor with intelligent compaction control. Features: 4,000 VPM, 2.5 ft drum width, GPS tracking. Perfect for road construction and soil compaction.",
+        "quantity": 3
+      },
+      {
+        "id": "com-140-3",
+        "name": "Compactor CAT 140",
+        "category": "Compactor",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\udee3\ufe0f",
+        "description": "14-ton vibratory soil compactor with intelligent compaction control. Features: 4,000 VPM, 2.5 ft drum width, GPS tracking. Perfect for road construction and soil compaction.",
+        "quantity": 3
+      },
+      {
+        "id": "com-160-1",
+        "name": "Compactor CAT 160",
+        "category": "Compactor",
+        "site": "Yard B",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\udee3\ufe0f",
+        "description": "16-ton vibratory soil compactor with advanced compaction technology. Features: 4,500 VPM, 3 ft drum width, automatic grade control. Ideal for highway construction and large-scale compaction.",
+        "quantity": 2
+      },
+      {
+        "id": "com-160-2",
+        "name": "Compactor CAT 160",
+        "category": "Compactor",
+        "site": "Yard B",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\udee3\ufe0f",
+        "description": "16-ton vibratory soil compactor with advanced compaction technology. Features: 4,500 VPM, 3 ft drum width, automatic grade control. Ideal for highway construction and large-scale compaction.",
+        "quantity": 2
+      },
+      {
+        "id": "gra-12-1",
+        "name": "Grader CAT 12",
+        "category": "Grader",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\udee3\ufe0f",
+        "description": "12-foot motor grader with precision blade control. Features: 200 hp, 6-way blade, GPS guidance system. Perfect for road construction and surface finishing.",
+        "quantity": 3
+      },
+      {
+        "id": "gra-12-2",
+        "name": "Grader CAT 12",
+        "category": "Grader",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\udee3\ufe0f",
+        "description": "12-foot motor grader with precision blade control. Features: 200 hp, 6-way blade, GPS guidance system. Perfect for road construction and surface finishing.",
+        "quantity": 3
+      },
+      {
+        "id": "gra-12-3",
+        "name": "Grader CAT 12",
+        "category": "Grader",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\udee3\ufe0f",
+        "description": "12-foot motor grader with precision blade control. Features: 200 hp, 6-way blade, GPS guidance system. Perfect for road construction and surface finishing.",
+        "quantity": 3
+      },
+      {
+        "id": "gra-14-1",
+        "name": "Grader CAT 14",
+        "category": "Grader",
+        "site": "Yard B",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\udee3\ufe0f",
+        "description": "14-foot motor grader with advanced control systems. Features: 250 hp, 8-way blade, automatic grade control. Designed for large-scale road construction projects.",
+        "quantity": 2
+      },
+      {
+        "id": "gra-14-2",
+        "name": "Grader CAT 14",
+        "category": "Grader",
+        "site": "Yard B",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\udee3\ufe0f",
+        "description": "14-foot motor grader with advanced control systems. Features: 250 hp, 8-way blade, automatic grade control. Designed for large-scale road construction projects.",
+        "quantity": 2
+      },
+      {
+        "id": "gra-16-1",
+        "name": "Grader CAT 16",
+        "category": "Grader",
+        "site": "Yard C",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\udee3\ufe0f",
+        "description": "16-foot motor grader with maximum productivity features. Features: 300 hp, 10-way blade, intelligent grade control. Built for highway and major road construction.",
+        "quantity": 1
+      },
+      {
+        "id": "rol-120-1",
+        "name": "Roller CAT 120",
+        "category": "Roller",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\udee3\ufe0f",
+        "description": "12-ton smooth drum roller with vibration control. Features: 2.5 ft drum width, 3,000 VPM, automatic grade control. Perfect for asphalt and soil compaction.",
+        "quantity": 4
+      },
+      {
+        "id": "rol-120-2",
+        "name": "Roller CAT 120",
+        "category": "Roller",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\udee3\ufe0f",
+        "description": "12-ton smooth drum roller with vibration control. Features: 2.5 ft drum width, 3,000 VPM, automatic grade control. Perfect for asphalt and soil compaction.",
+        "quantity": 4
+      },
+      {
+        "id": "rol-120-3",
+        "name": "Roller CAT 120",
+        "category": "Roller",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\udee3\ufe0f",
+        "description": "12-ton smooth drum roller with vibration control. Features: 2.5 ft drum width, 3,000 VPM, automatic grade control. Perfect for asphalt and soil compaction.",
+        "quantity": 4
+      },
+      {
+        "id": "rol-120-4",
+        "name": "Roller CAT 120",
+        "category": "Roller",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\udee3\ufe0f",
+        "description": "12-ton smooth drum roller with vibration control. Features: 2.5 ft drum width, 3,000 VPM, automatic grade control. Perfect for asphalt and soil compaction.",
+        "quantity": 4
+      },
+      {
+        "id": "rol-140-1",
+        "name": "Roller CAT 140",
+        "category": "Roller",
+        "site": "Yard B",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\udee3\ufe0f",
+        "description": "14-ton tandem roller with dual drum technology. Features: 3 ft drum width, 3,500 VPM, GPS tracking. Excellent for highway and road construction.",
+        "quantity": 2
+      },
+      {
+        "id": "rol-140-2",
+        "name": "Roller CAT 140",
+        "category": "Roller",
+        "site": "Yard B",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\udee3\ufe0f",
+        "description": "14-ton tandem roller with dual drum technology. Features: 3 ft drum width, 3,500 VPM, GPS tracking. Excellent for highway and road construction.",
+        "quantity": 2
+      },
+      {
+        "id": "rol-160-1",
+        "name": "Roller CAT 160",
+        "category": "Roller",
+        "site": "Yard C",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\udee3\ufe0f",
+        "description": "16-ton pneumatic roller with advanced compaction control. Features: 3.5 ft drum width, 4,000 VPM, automatic grade control. Built for heavy-duty compaction operations.",
+        "quantity": 1
+      },
+      {
+        "id": "skd-262-1",
+        "name": "Skid Steer CAT 262",
+        "category": "Skid Steer",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9c",
+        "description": "2.6-ton skid steer loader with versatile attachments. Features: 74 hp, 2,600 lb lift capacity, 8.5 ft lift height. Perfect for tight spaces and versatile material handling.",
+        "quantity": 5
+      },
+      {
+        "id": "skd-262-2",
+        "name": "Skid Steer CAT 262",
+        "category": "Skid Steer",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9c",
+        "description": "2.6-ton skid steer loader with versatile attachments. Features: 74 hp, 2,600 lb lift capacity, 8.5 ft lift height. Perfect for tight spaces and versatile material handling.",
+        "quantity": 5
+      },
+      {
+        "id": "skd-262-3",
+        "name": "Skid Steer CAT 262",
+        "category": "Skid Steer",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9c",
+        "description": "2.6-ton skid steer loader with versatile attachments. Features: 74 hp, 2,600 lb lift capacity, 8.5 ft lift height. Perfect for tight spaces and versatile material handling.",
+        "quantity": 5
+      },
+      {
+        "id": "skd-262-4",
+        "name": "Skid Steer CAT 262",
+        "category": "Skid Steer",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9c",
+        "description": "2.6-ton skid steer loader with versatile attachments. Features: 74 hp, 2,600 lb lift capacity, 8.5 ft lift height. Perfect for tight spaces and versatile material handling.",
+        "quantity": 5
+      },
+      {
+        "id": "skd-262-5",
+        "name": "Skid Steer CAT 262",
+        "category": "Skid Steer",
+        "site": "Yard A",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9c",
+        "description": "2.6-ton skid steer loader with versatile attachments. Features: 74 hp, 2,600 lb lift capacity, 8.5 ft lift height. Perfect for tight spaces and versatile material handling.",
+        "quantity": 5
+      },
+      {
+        "id": "skd-272-1",
+        "name": "Skid Steer CAT 272",
+        "category": "Skid Steer",
+        "site": "Yard B",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9c",
+        "description": "2.7-ton skid steer with advanced hydraulic system. Features: 82 hp, 2,700 lb lift capacity, 9 ft lift height. Designed for precision work and heavy material handling.",
+        "quantity": 3
+      },
+      {
+        "id": "skd-272-2",
+        "name": "Skid Steer CAT 272",
+        "category": "Skid Steer",
+        "site": "Yard B",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9c",
+        "description": "2.7-ton skid steer with advanced hydraulic system. Features: 82 hp, 2,700 lb lift capacity, 9 ft lift height. Designed for precision work and heavy material handling.",
+        "quantity": 3
+      },
+      {
+        "id": "skd-272-3",
+        "name": "Skid Steer CAT 272",
+        "category": "Skid Steer",
+        "site": "Yard B",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9c",
+        "description": "2.7-ton skid steer with advanced hydraulic system. Features: 82 hp, 2,700 lb lift capacity, 9 ft lift height. Designed for precision work and heavy material handling.",
+        "quantity": 3
+      },
+      {
+        "id": "skd-289-1",
+        "name": "Skid Steer CAT 289",
+        "category": "Skid Steer",
+        "site": "Yard C",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9c",
+        "description": "2.9-ton skid steer with maximum lift capacity. Features: 90 hp, 2,900 lb lift capacity, 10 ft lift height. Built for heavy material handling and maximum productivity.",
+        "quantity": 2
+      },
+      {
+        "id": "skd-289-2",
+        "name": "Skid Steer CAT 289",
+        "category": "Skid Steer",
+        "site": "Yard C",
+        "status": "idle",
+        "lastSeenAt": 1756410131071,
+        "imageEmoji": "\ud83d\ude9c",
+        "description": "2.9-ton skid steer with maximum lift capacity. Features: 90 hp, 2,900 lb lift capacity, 10 ft lift height. Built for heavy material handling and maximum productivity.",
+        "quantity": 2
+      }
+    ],
+    "timestamp": 1756410131072,
+    "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb",
+    "updated_at": "2025-08-29T01:12:11.114479"
+  },
+  "srt_rentals": {
+    "data": [
+      {
+        "id": "r_demo1",
+        "assetId": "exc-320-1",
+        "site": "Construction Site A",
+        "checkOutAt": "2025-08-21T19:42:11.073Z",
+        "checkInAt": "2025-08-26T19:42:11.073Z",
+        "customer": {
+          "name": "John Smith",
+          "phone": "+1-555-0123",
+          "email": "john@construction.com"
+        },
+        "fuelAtStart": 85,
+        "odometerAtStart": 1250,
+        "notes": "Site excavation work",
+        "createdAt": "2025-08-21T19:42:11.073Z",
+        "returnedAt": null
+      },
+      {
+        "id": "r_demo2",
+        "assetId": "ldr-950-1",
+        "site": "Mining Site B",
+        "checkOutAt": "2025-08-25T19:42:11.073Z",
+        "checkInAt": "2025-08-30T19:42:11.073Z",
+        "customer": {
+          "name": "Sarah Johnson",
+          "phone": "+1-555-0456",
+          "email": "sarah@mining.com"
+        },
+        "fuelAtStart": 90,
+        "odometerAtStart": 2100,
+        "notes": "Material loading operations",
+        "createdAt": "2025-08-25T19:42:11.073Z",
+        "returnedAt": null
+      },
+      {
+        "id": "r_demo3",
+        "assetId": "gen-150-1",
+        "site": "Event Center",
+        "checkOutAt": "2025-08-18T19:42:11.073Z",
+        "checkInAt": "2025-08-20T19:42:11.073Z",
+        "customer": {
+          "name": "Mike Wilson",
+          "phone": "+1-555-0789",
+          "email": "mike@events.com"
+        },
+        "fuelAtStart": 75,
+        "odometerAtStart": 500,
+        "notes": "Backup power for outdoor event",
+        "createdAt": "2025-08-18T19:42:11.073Z",
+        "returnedAt": "2025-08-21T19:42:11.073Z"
+      }
+    ],
+    "timestamp": 1756410131073,
+    "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb",
+    "updated_at": "2025-08-29T01:12:11.128148"
+  },
+  "srt_meta": {
+    "data": {
+      "version": "1.0.0",
+      "seededAt": 1756410131074
+    },
+    "timestamp": 1756410131074,
+    "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb",
+    "updated_at": "2025-08-29T01:12:11.132043"
+  }
+}

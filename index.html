@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Caterpillar - Smart Rental Tracking System</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐛</text></svg>">
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- QR code generator - using a more reliable CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+         <!-- In-browser QR scanner (optional fallback) -->
+     <script src="https://cdn.jsdelivr.net/npm/html5-qrcode@2.3.9/html5-qrcode.min.js"></script>
+</head>
+<body>
+    <header class="topbar">
+        <div class="brand">
+            <div class="brand-logo">
+                <img src="caterpillar-logo.svg" alt="Caterpillar Logo" class="cat-logo">
+                <div class="brand-text">
+                    <div class="brand-subtitle">Smart Rental Tracking</div>
+                </div>
+            </div>
+        </div>
+        <nav class="nav">
+            <a href="#/dashboard" class="nav-link" id="nav-dashboard">Dashboard</a>
+            <a href="#/rent" class="nav-link" id="nav-rent">New Rental</a>
+            <a href="#/history" class="nav-link" id="nav-history">Rental History</a>
+            <button id="btn-scan" class="btn btn-secondary">Scan QR</button>
+        </nav>
+    </header>
+
+    <main id="app"></main>
+
+    <!-- QR Modal -->
+    <div id="qr-modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="qr-modal-title">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="qr-modal-title">Scan to Rent</h3>
+                <button class="icon-button" id="qr-modal-close" aria-label="Close">✕</button>
+            </div>
+            <div id="qr-modal-body" class="modal-body">
+                <div id="qr-canvas" class="qr-box"></div>
+                <div class="qr-meta">
+                    <div class="muted" id="qr-asset-name"></div>
+                    <div class="muted small">Point your phone camera at this QR to open the rental form pre-filled for this asset.</div>
+                    <div class="qr-actions">
+                        <button id="qr-print" class="btn">Print QR</button>
+                        <a id="qr-open-link" class="btn btn-secondary" target="_blank" rel="noopener">Open Link</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scanner Modal -->
+    <div id="scan-modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="scan-modal-title">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="scan-modal-title">📷 Scan Asset QR Code</h3>
+                <button class="icon-button" id="scan-modal-close" aria-label="Close">✕</button>
+            </div>
+            <div class="modal-body">
+                <div id="reader" class="scanner"></div>
+                <div class="scan-instructions">
+                    <h4>How to Scan:</h4>
+                    <ol>
+                        <li>Click "Start Camera" to allow camera access</li>
+                        <li>Hold your phone's QR code in front of the laptop camera</li>
+                        <li>The system will automatically detect and open the rental form</li>
+                    </ol>
+                    <div class="muted small">💡 <strong>Tip:</strong> Make sure the QR code is clearly visible and well-lit</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Add Equipment Modal -->
+    <div id="add-equipment-modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="add-equipment-title">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="add-equipment-title">Add New Equipment</h3>
+                <button class="icon-button" id="add-equipment-close" aria-label="Close">✕</button>
+            </div>
+            <div class="modal-body">
+                <form id="add-equipment-form" class="form">
+                    <div class="row">
+                        <div class="field" style="flex:1">
+                            <label class="required">Equipment Name</label>
+                            <input name="name" placeholder="e.g., Excavator CAT 320" required />
+                        </div>
+                        <div class="field" style="flex:1">
+                            <label class="required">Category</label>
+                            <select name="category" required>
+                                <option value="">Select category</option>
+                                <option value="Excavator">Excavator</option>
+                                <option value="Loader">Loader</option>
+                                <option value="Truck">Truck</option>
+                                <option value="Bulldozer">Bulldozer</option>
+                                <option value="Crane">Crane</option>
+                                <option value="Generator">Generator</option>
+                                <option value="Compactor">Compactor</option>
+                                <option value="Grader">Grader</option>
+                                <option value="Roller">Roller</option>
+                                <option value="Skid Steer">Skid Steer</option>
+                            </select>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="field" style="flex:1">
+                            <label class="required">Site/Location</label>
+                            <input name="site" placeholder="e.g., Yard A" required />
+                        </div>
+                        <div class="field" style="flex:1">
+                            <label class="required">Quantity</label>
+                            <input type="number" name="quantity" min="1" value="1" required />
+                        </div>
+                    </div>
+                    
+                    <div class="field">
+                        <label class="required">Description</label>
+                        <textarea name="description" placeholder="Enter detailed description of the equipment, features, specifications, etc." rows="3" required></textarea>
+                    </div>
+                    
+                    <div class="row" style="justify-content:flex-end">
+                        <button type="button" class="btn btn-secondary" onclick="closeAddEquipmentModal()">Cancel</button>
+                        <button class="btn" type="submit">Add Equipment</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">© 2025 Smart Rental Co.</footer>
+
+    <script src="app.js"></script>
+</body>
+<noscript>Your browser must support JavaScript to use this app.</noscript>
+</html>
+
+
