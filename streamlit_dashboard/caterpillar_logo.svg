@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="400" height="200">
+  <!-- Black background -->
+  <rect width="400" height="200" fill="#000000"/>
+  
+  <!-- CAT text in white -->
+  <text x="50" y="120" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#FFFFFF">CAT</text>
+  
+  <!-- Yellow triangle -->
+  <polygon points="280,80 350,80 315,130" fill="#FFCC00"/>
+  
+  <!-- Caterpillar text below -->
+  <text x="50" y="160" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF">CATERPILLAR</text>
+</svg>

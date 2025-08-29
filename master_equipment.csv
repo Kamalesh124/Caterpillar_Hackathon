@@ -1,0 +1,141 @@
+equipment_id,equipment_type,make,model,year,capacity,fuel_type,branch_id,branch_name,site_id,site_name,customer_id,customer_name,status
+E0001,Backhoe,JCB,3DX,2023,10,Diesel,B2,Pune,S_B2_1,Pune Site 1,C022,Customer 22,RENTED
+E0002,Backhoe,CASE,570T,2021,1,Diesel,B1,Mumbai,S_B1_1,Mumbai Site 1,,,AVAILABLE
+E0003,Excavator,Hitachi,ZX200,2019,20,Diesel,B4,Nagpur,S_B4_3,Nagpur Site 3,,,AVAILABLE
+E0004,Excavator,CAT,320D,2023,20,Electric,B3,Nashik,S_B3_1,Nashik Site 1,,,AVAILABLE
+E0005,Forklift,Godrej,GX3000,2018,20,Diesel,B3,Nashik,S_B3_2,Nashik Site 2,C026,Customer 26,RENTED
+E0006,Excavator,Hitachi,ZX200,2021,2,Electric,B1,Mumbai,S_B1_3,Mumbai Site 3,,,AVAILABLE
+E0007,Forklift,KION,Baoli,2019,2,Diesel,B2,Pune,S_B2_2,Pune Site 2,,,MAINTENANCE
+E0008,Crane,Tata,TFC-50,2021,10,Electric,B3,Nashik,S_B3_1,Nashik Site 1,,,AVAILABLE
+E0009,Crane,Liebherr,LTM1040,2020,2,Hybrid,B2,Pune,S_B2_3,Pune Site 3,C006,Customer 6,RENTED
+E0010,Bulldozer,Komatsu,D65EX,2020,5,Hybrid,B3,Nashik,S_B3_1,Nashik Site 1,,,AVAILABLE
+E0011,Excavator,Komatsu,PC210,2021,10,Diesel,B2,Pune,S_B2_3,Pune Site 3,C011,Customer 11,RENTED
+E0012,Crane,Liebherr,LTM1040,2021,20,Hybrid,B4,Nagpur,S_B4_1,Nagpur Site 1,,,AVAILABLE
+E0013,Crane,Liebherr,LTM1040,2022,10,Hybrid,B4,Nagpur,S_B4_3,Nagpur Site 3,,,AVAILABLE
+E0014,Crane,Tata,TFC-50,2022,25,Diesel,B1,Mumbai,S_B1_1,Mumbai Site 1,,,AVAILABLE
+E0015,Loader,Komatsu,WA200,2021,2,Electric,B4,Nagpur,S_B4_3,Nagpur Site 3,,,MAINTENANCE
+E0016,Generator,Mahindra,Powerol-100,2024,1,Hybrid,B1,Mumbai,S_B1_3,Mumbai Site 3,C025,Customer 25,RENTED
+E0017,Generator,Mahindra,Powerol-100,2020,2,Electric,B4,Nagpur,S_B4_1,Nagpur Site 1,,,AVAILABLE
+E0018,Generator,Mahindra,Powerol-100,2024,3,Hybrid,B1,Mumbai,S_B1_3,Mumbai Site 3,,,AVAILABLE
+E0019,Crane,Tata,TFC-50,2020,3,Hybrid,B1,Mumbai,S_B1_3,Mumbai Site 3,,,AVAILABLE
+E0020,Excavator,CAT,320D,2020,10,Diesel,B1,Mumbai,S_B1_1,Mumbai Site 1,C003,Customer 3,RENTED
+E0021,Backhoe,CASE,570T,2021,2,Hybrid,B2,Pune,S_B2_1,Pune Site 1,C018,Customer 18,RENTED
+E0022,Loader,Volvo,L90H,2022,20,Diesel,B2,Pune,S_B2_3,Pune Site 3,,,AVAILABLE
+E0023,Forklift,Toyota,8FG,2022,25,Diesel,B2,Pune,S_B2_1,Pune Site 1,,,AVAILABLE
+E0024,Excavator,Hitachi,ZX200,2022,5,Hybrid,B2,Pune,S_B2_1,Pune Site 1,,,AVAILABLE
+E0025,Excavator,CAT,320D,2018,1,Electric,B1,Mumbai,S_B1_3,Mumbai Site 3,,,AVAILABLE
+E0026,Bulldozer,CAT,D6R2,2022,3,Hybrid,B4,Nagpur,S_B4_1,Nagpur Site 1,C026,Customer 26,RENTED
+E0027,Compactor,CASE,1107EX,2018,2,Hybrid,B4,Nagpur,S_B4_2,Nagpur Site 2,,,AVAILABLE
+E0028,Bulldozer,LiuGong,CLGB320,2018,2,Diesel,B4,Nagpur,S_B4_3,Nagpur Site 3,,,AVAILABLE
+E0029,Backhoe,JCB,3DX,2019,5,Hybrid,B4,Nagpur,S_B4_1,Nagpur Site 1,,,AVAILABLE
+E0030,Generator,Cummins,C150D5,2019,2,Electric,B1,Mumbai,S_B1_1,Mumbai Site 1,C018,Customer 18,RENTED
+E0031,Excavator,CAT,320D,2024,5,Diesel,B4,Nagpur,S_B4_2,Nagpur Site 2,,,AVAILABLE
+E0032,Compactor,CASE,1107EX,2019,20,Diesel,B4,Nagpur,S_B4_2,Nagpur Site 2,,,MAINTENANCE
+E0033,Bulldozer,Komatsu,D65EX,2021,25,Diesel,B2,Pune,S_B2_2,Pune Site 2,,,AVAILABLE
+E0034,Excavator,Hitachi,ZX200,2023,1,Hybrid,B3,Nashik,S_B3_1,Nashik Site 1,,,AVAILABLE
+E0035,Bulldozer,LiuGong,CLGB320,2024,3,Diesel,B1,Mumbai,S_B1_1,Mumbai Site 1,,,AVAILABLE
+E0036,Backhoe,CASE,570T,2024,5,Electric,B1,Mumbai,S_B1_3,Mumbai Site 3,,,AVAILABLE
+E0037,Excavator,Hitachi,ZX200,2018,20,Hybrid,B3,Nashik,S_B3_2,Nashik Site 2,,,AVAILABLE
+E0038,Forklift,Godrej,GX3000,2020,20,Diesel,B3,Nashik,S_B3_2,Nashik Site 2,,,AVAILABLE
+E0039,Backhoe,JCB,3DX,2021,2,Diesel,B2,Pune,S_B2_3,Pune Site 3,,,AVAILABLE
+E0040,Forklift,Godrej,GX3000,2019,15,Electric,B2,Pune,S_B2_2,Pune Site 2,C023,Customer 23,RENTED
+E0041,Generator,Mahindra,Powerol-100,2024,1,Hybrid,B3,Nashik,S_B3_3,Nashik Site 3,,,AVAILABLE
+E0042,Loader,Volvo,L90H,2018,2,Hybrid,B2,Pune,S_B2_2,Pune Site 2,,,AVAILABLE
+E0043,Crane,Liebherr,LTM1040,2020,5,Hybrid,B3,Nashik,S_B3_3,Nashik Site 3,,,AVAILABLE
+E0044,Excavator,CAT,320D,2023,20,Electric,B1,Mumbai,S_B1_1,Mumbai Site 1,,,AVAILABLE
+E0045,Loader,Komatsu,WA200,2020,3,Hybrid,B4,Nagpur,S_B4_3,Nagpur Site 3,C018,Customer 18,RENTED
+E0046,Excavator,CAT,320D,2018,3,Hybrid,B1,Mumbai,S_B1_2,Mumbai Site 2,,,AVAILABLE
+E0047,Loader,Volvo,L90H,2019,1,Electric,B3,Nashik,S_B3_1,Nashik Site 1,C007,Customer 7,RENTED
+E0048,Crane,Liebherr,LTM1040,2018,15,Hybrid,B4,Nagpur,S_B4_3,Nagpur Site 3,C030,Customer 30,RENTED
+E0049,Crane,Tata,TFC-50,2024,3,Electric,B1,Mumbai,S_B1_1,Mumbai Site 1,C011,Customer 11,RENTED
+E0050,Compactor,BOMAG,BW 177,2024,5,Electric,B2,Pune,S_B2_3,Pune Site 3,,,AVAILABLE
+E0051,Excavator,Komatsu,PC210,2019,5,Electric,B3,Nashik,S_B3_2,Nashik Site 2,C028,Customer 28,RENTED
+E0052,Crane,Tata,TFC-50,2018,5,Electric,B3,Nashik,S_B3_2,Nashik Site 2,C025,Customer 25,RENTED
+E0053,Generator,Cummins,C150D5,2023,20,Hybrid,B3,Nashik,S_B3_1,Nashik Site 1,,,AVAILABLE
+E0054,Generator,Kirloskar,DG-125,2022,10,Diesel,B1,Mumbai,S_B1_3,Mumbai Site 3,,,AVAILABLE
+E0055,Forklift,Toyota,8FG,2022,2,Electric,B2,Pune,S_B2_2,Pune Site 2,,,AVAILABLE
+E0056,Compactor,CASE,1107EX,2022,5,Electric,B4,Nagpur,S_B4_1,Nagpur Site 1,,,MAINTENANCE
+E0057,Forklift,KION,Baoli,2020,2,Hybrid,B3,Nashik,S_B3_3,Nashik Site 3,,,AVAILABLE
+E0058,Compactor,HAMM,HD 99,2021,10,Hybrid,B2,Pune,S_B2_1,Pune Site 1,,,AVAILABLE
+E0059,Compactor,BOMAG,BW 177,2023,3,Hybrid,B3,Nashik,S_B3_2,Nashik Site 2,,,AVAILABLE
+E0060,Excavator,Komatsu,PC210,2020,5,Electric,B3,Nashik,S_B3_2,Nashik Site 2,,,AVAILABLE
+E0061,Crane,Liebherr,LTM1040,2021,3,Hybrid,B1,Mumbai,S_B1_2,Mumbai Site 2,,,AVAILABLE
+E0062,Forklift,Godrej,GX3000,2024,5,Hybrid,B3,Nashik,S_B3_1,Nashik Site 1,C005,Customer 5,RENTED
+E0063,Excavator,CAT,320D,2019,25,Hybrid,B1,Mumbai,S_B1_2,Mumbai Site 2,,,AVAILABLE
+E0064,Crane,Liebherr,LTM1040,2023,20,Electric,B4,Nagpur,S_B4_1,Nagpur Site 1,,,AVAILABLE
+E0065,Excavator,CAT,320D,2024,20,Diesel,B2,Pune,S_B2_3,Pune Site 3,,,AVAILABLE
+E0066,Excavator,Hitachi,ZX200,2019,2,Electric,B2,Pune,S_B2_2,Pune Site 2,C018,Customer 18,RENTED
+E0067,Forklift,Toyota,8FG,2022,20,Hybrid,B4,Nagpur,S_B4_1,Nagpur Site 1,C016,Customer 16,RENTED
+E0068,Bulldozer,Komatsu,D65EX,2024,5,Hybrid,B3,Nashik,S_B3_3,Nashik Site 3,,,AVAILABLE
+E0069,Crane,ACE,FX-210,2021,2,Hybrid,B3,Nashik,S_B3_1,Nashik Site 1,,,AVAILABLE
+E0070,Forklift,KION,Baoli,2018,3,Diesel,B2,Pune,S_B2_2,Pune Site 2,C023,Customer 23,RENTED
+E0071,Crane,Tata,TFC-50,2021,20,Electric,B4,Nagpur,S_B4_2,Nagpur Site 2,,,AVAILABLE
+E0072,Compactor,HAMM,HD 99,2024,1,Hybrid,B4,Nagpur,S_B4_2,Nagpur Site 2,,,AVAILABLE
+E0073,Forklift,Toyota,8FG,2024,20,Electric,B2,Pune,S_B2_2,Pune Site 2,,,AVAILABLE
+E0074,Compactor,HAMM,HD 99,2018,20,Electric,B4,Nagpur,S_B4_3,Nagpur Site 3,,,AVAILABLE
+E0075,Bulldozer,CAT,D6R2,2022,1,Electric,B1,Mumbai,S_B1_1,Mumbai Site 1,C005,Customer 5,RENTED
+E0076,Bulldozer,CAT,D6R2,2018,10,Electric,B3,Nashik,S_B3_1,Nashik Site 1,,,AVAILABLE
+E0077,Forklift,Toyota,8FG,2020,20,Electric,B1,Mumbai,S_B1_2,Mumbai Site 2,,,AVAILABLE
+E0078,Excavator,Komatsu,PC210,2019,2,Hybrid,B1,Mumbai,S_B1_1,Mumbai Site 1,,,MAINTENANCE
+E0079,Crane,Tata,TFC-50,2022,3,Diesel,B2,Pune,S_B2_2,Pune Site 2,C019,Customer 19,RENTED
+E0080,Crane,ACE,FX-210,2023,10,Electric,B2,Pune,S_B2_3,Pune Site 3,C024,Customer 24,RENTED
+E0081,Backhoe,JCB,3DX,2020,2,Hybrid,B1,Mumbai,S_B1_2,Mumbai Site 2,,,AVAILABLE
+E0082,Compactor,HAMM,HD 99,2023,5,Diesel,B2,Pune,S_B2_1,Pune Site 1,C010,Customer 10,RENTED
+E0083,Backhoe,CASE,570T,2024,1,Electric,B4,Nagpur,S_B4_3,Nagpur Site 3,,,AVAILABLE
+E0084,Forklift,Godrej,GX3000,2024,20,Electric,B1,Mumbai,S_B1_2,Mumbai Site 2,,,MAINTENANCE
+E0085,Bulldozer,LiuGong,CLGB320,2019,20,Diesel,B3,Nashik,S_B3_3,Nashik Site 3,C018,Customer 18,RENTED
+E0086,Bulldozer,Komatsu,D65EX,2021,10,Electric,B2,Pune,S_B2_1,Pune Site 1,,,AVAILABLE
+E0087,Bulldozer,CAT,D6R2,2024,25,Hybrid,B4,Nagpur,S_B4_2,Nagpur Site 2,,,AVAILABLE
+E0088,Forklift,Godrej,GX3000,2021,5,Electric,B3,Nashik,S_B3_2,Nashik Site 2,,,AVAILABLE
+E0089,Generator,Mahindra,Powerol-100,2018,5,Diesel,B2,Pune,S_B2_3,Pune Site 3,,,AVAILABLE
+E0090,Crane,Liebherr,LTM1040,2021,25,Electric,B1,Mumbai,S_B1_1,Mumbai Site 1,,,AVAILABLE
+E0091,Compactor,BOMAG,BW 177,2019,10,Hybrid,B3,Nashik,S_B3_2,Nashik Site 2,,,AVAILABLE
+E0092,Forklift,Toyota,8FG,2023,15,Electric,B4,Nagpur,S_B4_2,Nagpur Site 2,,,AVAILABLE
+E0093,Crane,Tata,TFC-50,2023,5,Electric,B1,Mumbai,S_B1_3,Mumbai Site 3,,,AVAILABLE
+E0094,Loader,CAT,950M,2019,25,Electric,B3,Nashik,S_B3_1,Nashik Site 1,C010,Customer 10,RENTED
+E0095,Crane,ACE,FX-210,2019,10,Diesel,B2,Pune,S_B2_2,Pune Site 2,,,AVAILABLE
+E0096,Excavator,Hitachi,ZX200,2020,3,Hybrid,B4,Nagpur,S_B4_1,Nagpur Site 1,C019,Customer 19,RENTED
+E0097,Generator,Cummins,C150D5,2021,25,Electric,B2,Pune,S_B2_1,Pune Site 1,,,AVAILABLE
+E0098,Bulldozer,CAT,D6R2,2024,2,Electric,B4,Nagpur,S_B4_1,Nagpur Site 1,,,AVAILABLE
+E0099,Excavator,CAT,320D,2019,10,Diesel,B2,Pune,S_B2_1,Pune Site 1,,,AVAILABLE
+E0100,Compactor,BOMAG,BW 177,2022,5,Hybrid,B4,Nagpur,S_B4_2,Nagpur Site 2,,,MAINTENANCE
+E0101,Generator,Mahindra,Powerol-100,2021,10,Hybrid,B1,Mumbai,S_B1_3,Mumbai Site 3,,,MAINTENANCE
+E0102,Backhoe,JCB,3DX,2023,5,Electric,B1,Mumbai,S_B1_1,Mumbai Site 1,,,AVAILABLE
+E0103,Backhoe,JCB,3DX,2018,20,Electric,B4,Nagpur,S_B4_2,Nagpur Site 2,,,AVAILABLE
+E0104,Generator,Mahindra,Powerol-100,2020,25,Diesel,B2,Pune,S_B2_2,Pune Site 2,C021,Customer 21,RENTED
+E0105,Crane,ACE,FX-210,2018,5,Hybrid,B2,Pune,S_B2_2,Pune Site 2,C003,Customer 3,RENTED
+E0106,Excavator,CAT,320D,2024,10,Hybrid,B3,Nashik,S_B3_2,Nashik Site 2,,,AVAILABLE
+E0107,Generator,Mahindra,Powerol-100,2021,10,Hybrid,B4,Nagpur,S_B4_2,Nagpur Site 2,,,AVAILABLE
+E0108,Excavator,Komatsu,PC210,2023,15,Hybrid,B3,Nashik,S_B3_1,Nashik Site 1,,,AVAILABLE
+E0109,Excavator,Hitachi,ZX200,2024,10,Hybrid,B1,Mumbai,S_B1_1,Mumbai Site 1,,,AVAILABLE
+E0110,Bulldozer,Komatsu,D65EX,2019,20,Hybrid,B4,Nagpur,S_B4_1,Nagpur Site 1,,,AVAILABLE
+E0111,Compactor,HAMM,HD 99,2020,2,Diesel,B3,Nashik,S_B3_2,Nashik Site 2,C010,Customer 10,RENTED
+E0112,Compactor,BOMAG,BW 177,2018,25,Diesel,B3,Nashik,S_B3_2,Nashik Site 2,,,AVAILABLE
+E0113,Compactor,BOMAG,BW 177,2024,1,Hybrid,B4,Nagpur,S_B4_2,Nagpur Site 2,,,AVAILABLE
+E0114,Forklift,KION,Baoli,2024,25,Hybrid,B4,Nagpur,S_B4_1,Nagpur Site 1,,,AVAILABLE
+E0115,Loader,Volvo,L90H,2021,25,Diesel,B1,Mumbai,S_B1_3,Mumbai Site 3,C008,Customer 8,RENTED
+E0116,Loader,Volvo,L90H,2022,1,Hybrid,B4,Nagpur,S_B4_1,Nagpur Site 1,,,AVAILABLE
+E0117,Backhoe,CAT,416F2,2018,3,Electric,B3,Nashik,S_B3_3,Nashik Site 3,C014,Customer 14,RENTED
+E0118,Bulldozer,Komatsu,D65EX,2019,25,Hybrid,B2,Pune,S_B2_2,Pune Site 2,,,AVAILABLE
+E0119,Loader,CAT,950M,2020,20,Electric,B3,Nashik,S_B3_1,Nashik Site 1,,,AVAILABLE
+E0120,Generator,Mahindra,Powerol-100,2022,25,Diesel,B4,Nagpur,S_B4_3,Nagpur Site 3,,,AVAILABLE
+E0121,Forklift,KION,Baoli,2024,20,Electric,B3,Nashik,S_B3_1,Nashik Site 1,,,MAINTENANCE
+E0122,Crane,Liebherr,LTM1040,2021,5,Electric,B1,Mumbai,S_B1_2,Mumbai Site 2,C023,Customer 23,RENTED
+E0123,Compactor,HAMM,HD 99,2023,3,Electric,B1,Mumbai,S_B1_1,Mumbai Site 1,,,AVAILABLE
+E0124,Forklift,Godrej,GX3000,2024,25,Diesel,B4,Nagpur,S_B4_1,Nagpur Site 1,C014,Customer 14,RENTED
+E0125,Loader,CAT,950M,2021,10,Electric,B4,Nagpur,S_B4_3,Nagpur Site 3,,,AVAILABLE
+E0126,Forklift,KION,Baoli,2024,20,Electric,B4,Nagpur,S_B4_3,Nagpur Site 3,,,AVAILABLE
+E0127,Backhoe,JCB,3DX,2023,10,Diesel,B1,Mumbai,S_B1_2,Mumbai Site 2,,,MAINTENANCE
+E0128,Backhoe,CAT,416F2,2019,10,Diesel,B1,Mumbai,S_B1_2,Mumbai Site 2,C010,Customer 10,RENTED
+E0129,Forklift,Toyota,8FG,2021,3,Diesel,B4,Nagpur,S_B4_3,Nagpur Site 3,C006,Customer 6,RENTED
+E0130,Loader,CAT,950M,2018,20,Hybrid,B2,Pune,S_B2_2,Pune Site 2,,,MAINTENANCE
+E0131,Loader,CAT,950M,2021,10,Electric,B3,Nashik,S_B3_3,Nashik Site 3,,,AVAILABLE
+E0132,Bulldozer,Komatsu,D65EX,2023,3,Diesel,B4,Nagpur,S_B4_2,Nagpur Site 2,,,MAINTENANCE
+E0133,Generator,Mahindra,Powerol-100,2021,10,Electric,B3,Nashik,S_B3_1,Nashik Site 1,,,MAINTENANCE
+E0134,Bulldozer,CAT,D6R2,2019,20,Hybrid,B3,Nashik,S_B3_3,Nashik Site 3,,,AVAILABLE
+E0135,Generator,Kirloskar,DG-125,2024,20,Electric,B1,Mumbai,S_B1_3,Mumbai Site 3,C025,Customer 25,RENTED
+E0136,Excavator,Hitachi,ZX200,2023,25,Electric,B2,Pune,S_B2_3,Pune Site 3,C008,Customer 8,RENTED
+E0137,Crane,Liebherr,LTM1040,2020,3,Hybrid,B1,Mumbai,S_B1_3,Mumbai Site 3,C010,Customer 10,RENTED
+E0138,Bulldozer,CAT,D6R2,2022,15,Hybrid,B2,Pune,S_B2_1,Pune Site 1,,,MAINTENANCE
+E0139,Forklift,KION,Baoli,2021,3,Diesel,B2,Pune,S_B2_3,Pune Site 3,C012,Customer 12,RENTED
+E0140,Generator,Kirloskar,DG-125,2020,25,Electric,B3,Nashik,S_B3_1,Nashik Site 1,,,AVAILABLE

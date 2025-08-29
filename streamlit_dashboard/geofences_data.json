@@ -1,0 +1,112 @@
+{
+  "Geofence_ID": [
+    "GF001",
+    "GF002",
+    "GF003",
+    "GF004",
+    "GF005",
+    "GF006",
+    "GF007",
+    "GF008",
+    "GF009"
+  ],
+  "Name": [
+    "Construction Zone A",
+    "Restricted Area B",
+    "Safe Zone C",
+    "Maintenance Zone D",
+    "Highway Zone",
+    "Site Boundary",
+    "Test Construction Zone",
+    "Test Zone 2",
+    "Test Zone 3"
+  ],
+  "Type": [
+    "Circular",
+    "Polygon",
+    "Circular",
+    "Rectangle",
+    "Corridor",
+    "Polygon",
+    "Circular",
+    "Circular",
+    "Circular"
+  ],
+  "Status": [
+    "Active",
+    "Active",
+    "Active",
+    "Maintenance",
+    "Active",
+    "Active",
+    "Active",
+    "Active",
+    "Active"
+  ],
+  "Equipment_Count": [
+    9,
+    16,
+    27,
+    21,
+    21,
+    11,
+    25,
+    20,
+    22
+  ],
+  "Created_Date": [
+    "2023-12-01",
+    "2023-11-15",
+    "2023-12-10",
+    "2024-01-05",
+    "2023-10-20",
+    "2023-09-30",
+    "2025-08-29",
+    "2025-08-29",
+    "2025-08-29"
+  ],
+  "Center_Lat": [
+    28.6139,
+    28.6139,
+    28.6139,
+    28.6139,
+    28.6139,
+    28.6139,
+    28.6139,
+    28.6139,
+    28.6139
+  ],
+  "Center_Lng": [
+    77.209,
+    77.209,
+    77.209,
+    77.209,
+    77.209,
+    77.209,
+    77.209,
+    77.209,
+    77.209
+  ],
+  "Radius": [
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000
+  ],
+  "Priority": [
+    "Medium",
+    "Medium",
+    "Medium",
+    "Medium",
+    "Medium",
+    "Medium",
+    "Low",
+    "Low",
+    "Low"
+  ]
+}
